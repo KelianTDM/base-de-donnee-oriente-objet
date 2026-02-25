@@ -1,18 +1,17 @@
-# Compiled class file
+# Compiled class
 *.class
 
-# Log file
+# Log files
 *.log
 *.dat
 
-
-# BlueJ files
+# Bluej files
 *.ctxt
 
-# Mobile Tools for Java (J2ME)
+# Java
 .mtj.tmp/
 
-# Package Files #
+# Package
 *.jar
 *.war
 *.nar
@@ -21,11 +20,10 @@
 *.tar.gz
 *.rar
 
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
 
-# OS et éditeurs
+# éditeurs
 .vscode/
 .idea/
 .DS_Store
